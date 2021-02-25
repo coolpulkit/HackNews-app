@@ -20,17 +20,3 @@
 
 ## Cons
 - You need to have very good internet connection, otherwise your phone will display blank screen.That is why, I am planning to add pre loader. 
-
-## 💥 Local Access in Android phones
-- Open the link given below in your android set
-```sh
-https://drive.google.com/file/d/1jMtK2RHy0Mck9XIJgRmRhEY9YofMCByn/view?usp=sharing
-```
-- Allow the device to download app from external source
-```sh
-Settings-> Lock screen and securtiy-> Unknown Sources -> Turn it on
-```
-- Download apk
-- Now you are good to go 🏃‍
-
-Drop a ⭐ on the Github Repository.
