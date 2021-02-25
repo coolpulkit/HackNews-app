@@ -1,9 +1,5 @@
 # HackNews-App
 
-<p align="center">
-  <img width="300" height="300" src="https://github.com/salonigupta1/HackNews-App/blob/master/app/src/main/res/drawable/logo.png">
-</p>
-
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 ![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ![ForTheBadge built-by-developers](https://forthebadge.com/images/badges/made-with-java.svg)
